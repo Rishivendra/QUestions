@@ -1,0 +1,12 @@
+A. What is reverse-i-search in a Linux terminal?
+Ans : It is basically used for quickly navigating the history, This is an incremental search.
+
+B. How do you list out the hidden directories using Linux command line tool?
+Ans : ls –a
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans : I am pretty much comfortable as during my intership I only worked on linux Ubnutu.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Ans: Not Much but once used SMTP.
